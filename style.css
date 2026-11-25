@@ -22,3 +22,17 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+.welcome-banner {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.welcome-banner h2 {
+    color: darkblue;
+}
+
+.welcome-banner p {
+    font-size: 18px;
+}
